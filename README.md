@@ -1,4 +1,4 @@
-# Academic Evaluation Centre
+# Akademische Pruefstelle
 ## Highway and Bridge Engineering(SEU)
 
 # 课程表
